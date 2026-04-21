@@ -7,4 +7,4 @@ title: 'Notes'
 Hi
 
 
-[Dirichlet characters and Cyclotomic Fields](/files/cyc.pdf)
+[Dirichlet characters and Cyclotomic Fields](/cyc.pdf)
