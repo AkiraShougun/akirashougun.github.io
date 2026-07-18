@@ -6,5 +6,5 @@ title: 'Notes'
 
 Hi
 
-[Reciprocity](/reciprocity.pdf)
+[Reciprocity](/reciprocitynew.pdf)
 [Dirichlet characters and Cyclotomic Fields](/cyc.pdf)
